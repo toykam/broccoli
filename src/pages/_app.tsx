@@ -2,5 +2,11 @@ import "@/styles/globals.css";
 import type { AppProps } from "next/app";
 
 export default function App({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />;
+    return <>
+      <link
+        href="https://fonts.googleapis.com/css2?family=Bungee&display=swap"
+        rel="stylesheet"
+      />
+      <Component {...pageProps} />
+    </>
 }

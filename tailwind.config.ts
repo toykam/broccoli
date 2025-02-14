@@ -11,6 +11,9 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+
+        'binance-yellow': '#F0B90B',
+        'binance-black': '#000000',
       },
     },
   },
