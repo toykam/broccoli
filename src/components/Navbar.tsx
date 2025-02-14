@@ -18,11 +18,11 @@ export default function Navbar() {
               About
             </span>
           </Link> */}
-          <Link href="/how-to-buy">
+          {/* <Link href="/how-to-buy">
             <span className="text-binance-yellow hover:text-yellow-600 cursor-pointer font-semibold">
               How to Buy
             </span>
-          </Link>
+          </Link> */}
           {/* <Link href="/community">
             <span className="text-binance-yellow hover:text-yellow-600 cursor-pointer font-semibold">
               Community
