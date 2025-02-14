@@ -17,7 +17,7 @@ export default function Hero() {
         Welcome to $BROCCOLI
         </motion.h1>
       <p className="text-lg md:text-xl mb-8">
-      Broccoli is CZ's beloved Belgian Malinois, who became a symbol of resilience and energy in the crypto world. Inspired by his story, we created $BROCCOLI, a meme token that celebrates community, fun, and the spirit of crypto.
+      {"Broccoli is CZ's beloved Belgian Malinois, who became a symbol of resilience and energy in the crypto world. Inspired by his story, we created $BROCCOLI, a meme token that celebrates community, fun, and the spirit of crypto."}
       </p>
       <button className="bg-binance-yellow text-binance-black px-6 py-3 rounded-full font-bold hover:bg-yellow-600 transition-colors">
         Buy $BROCCOLI Now

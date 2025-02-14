@@ -7,7 +7,7 @@ export default function Footer() {
             <div className="text-center md:text-left">
               <h3 className="text-xl font-bold mb-4">About $BROCCOLI</h3>
               <p className="text-sm">
-                $BROCCOLI is a meme token inspired by CZ's dog, Broccoli. Join the fun and be part of the crypto revolution!
+                {"$BROCCOLI is a meme token inspired by CZ's dog, Broccoli. Join the fun and be part of the crypto revolution!"}
               </p>
             </div>
   

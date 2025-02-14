@@ -17,7 +17,7 @@ export default function About() {
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">The Story of Broccoli</h2>
           <p className="text-lg">
-            Broccoli is CZ's beloved Belgian Malinois, who became a symbol of resilience and energy in the crypto world. Inspired by his story, we created $BROCCOLI, a meme token that celebrates community, fun, and the spirit of crypto.
+            {"Broccoli is CZ's beloved Belgian Malinois, who became a symbol of resilience and energy in the crypto world. Inspired by his story, we created $BROCCOLI, a meme token that celebrates community, fun, and the spirit of crypto."}
           </p>
         </section>
 
